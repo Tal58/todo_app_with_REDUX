@@ -79,7 +79,7 @@ Build a Todo App using REDUX via backend server covered by express.js designed b
 🌐 The desktop and mobile versions of the web page are as follows;🧭
 <br><br>
 
-## 🖥️Desktop version (ADD operations on todo app)
+## 🖥️Desktop version (ADD operations on todo app-left side shows server)
 <br>
 <img src="./images/addTodo.gif" align="left" alt="desktop_version">
 <br>
@@ -93,7 +93,7 @@ Build a Todo App using REDUX via backend server covered by express.js designed b
 <br>
 <br><br><br><br><br><br><br><br><br>
 
-## 🖥️Desktop version (Edit operations on todo app)
+## 🖥️Desktop version (Edit operations on todo app-left side shows server)
 <br>
 <img src="./images/editTodo.gif" align="left" alt="desktop_version">
 <br>
@@ -107,7 +107,7 @@ Build a Todo App using REDUX via backend server covered by express.js designed b
 <br>
 <br><br><br><br><br><br><br><br><br>
 
-## 🖥️Desktop version (Delete Edit operations on todo app)
+## 🖥️Desktop version (Delete Edit operations on todo app-left side shows server)
 <br>
 <img src="./images/deleteEditTodo.gif" align="left" alt="desktop_version">
 <br>
