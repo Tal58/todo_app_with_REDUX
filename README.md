@@ -1,4 +1,4 @@
-# Todo app with REDUX
+# Todo app with REDUX API CRUD operations
 
 ## Description
 
