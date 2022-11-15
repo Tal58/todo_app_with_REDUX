@@ -107,7 +107,7 @@ Build a Todo App using REDUX via backend server covered by express.js designed b
 <br>
 <br><br><br><br><br><br><br><br><br>
 
-## 🖥️Desktop version (Delete Edit operations on todo app-left side shows server)
+## 🖥️Desktop version (Delete Edit operations on todo app-left side shows server )
 <br>
 <img src="./images/deleteEditTodo.gif" align="left" alt="desktop_version">
 <br>
